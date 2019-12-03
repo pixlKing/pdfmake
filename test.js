@@ -1,0 +1,3 @@
+function generarPDF(){
+	alert("asdadsa");
+}
